@@ -11,7 +11,7 @@ namespace MyConsoleApplication
         static void Main(string[] args)
         {
             //Civsdvsddsv
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World"); // server side comment
             Console.ReadKey();
         }
     }
